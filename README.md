@@ -1,11 +1,16 @@
 # AI Resume Screening System
 
-A simple Python project that compares resume skills with job requirements and calculates a match score.
-
-## Technologies
-- Python
+## Description
+A Python application that compares resume skills with job requirements and calculates a matching percentage.
 
 ## Features
 - Skill extraction
 - Resume-job matching
-- Match percentage calculation
+- Match score calculation
+
+## Technologies Used
+- Python
+
+## How to Run
+
+python app.py
